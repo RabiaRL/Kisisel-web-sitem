@@ -42,4 +42,13 @@
 ## LOGİN 
     -Login kısmında kullanıcı adı, mail adresi ve şifre istenilecek ve buton olarak sil ve gönder yer alacak. Kullanıcı bilgileri doğru şekilde giriş yapınca “hoş geldiniz ‘Kullanıcı adı’” şekilde hakkımız sayfasına yönlendirilecek. Kullanıcı bilgileri eksik veya hatalı yazdığında “HATALI GİRİŞ YAPILMIŞTIR” şeklinde mesaj ile karşılayacaktır. 
 
+# PROJENİN HAZIRLIK AŞAMASINDA
+
+     -İlk olarak sayfanın içeriğini HTML dosyası ile topladım.
+     -Bootstrap ile tasarım kodlarının yazılması
+     -Javascript ile form kontrolü yapılması
+     -PHP ile dosyalara erişim sağlanması
+     
+ 
+
 
