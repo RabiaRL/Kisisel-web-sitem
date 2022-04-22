@@ -2,7 +2,7 @@
 
 # ANASAYFA
 Bu bölümde menü olacak.
-# 1.HAKKIMIZDA
+i 1.HAKKIMIZDA
 Bu bölüm giriş niteliğinde olacak 
 # 1.1.Giriş  Sayfası
 Tıklandığında 3 bölüme ayrılacak.
