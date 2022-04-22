@@ -36,10 +36,10 @@
 ## 4.MİRASIMIZ
     -Bu bölümde şehrim hakkında kısa bilgi verip kültürel mirası koruma hakkında kısa yazım olacak
 
-# 5.İLETİŞİM
+## 5.İLETİŞİM
     -Gerekli kontrol işlemleri yer alacak. Bu kısım dolu mu boş mu, e mail formatında mı gibi      kontroller yapılacak
 
-# LOGİN 
+## LOGİN 
     -Login kısmında kullanıcı adı, mail adresi ve şifre istenilecek ve buton olarak sil ve gönder yer alacak. Kullanıcı bilgileri doğru şekilde giriş yapınca “hoş geldiniz ‘Kullanıcı adı’” şekilde hakkımız sayfasına yönlendirilecek. Kullanıcı bilgileri eksik veya hatalı yazdığında “HATALI GİRİŞ YAPILMIŞTIR” şeklinde mesaj ile karşılayacaktır. 
 
 
